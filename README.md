@@ -1,4 +1,4 @@
-#Blog utilizando Ruby on Rails,SQLite y Git
+# Blog utilizando Ruby on Rails, SQLite y Git
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
